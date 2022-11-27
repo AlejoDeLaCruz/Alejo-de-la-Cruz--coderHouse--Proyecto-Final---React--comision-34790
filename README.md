@@ -42,5 +42,5 @@ El último paso sería corroborar si se descargó correctamente y para eso abrim
 
 Link de la pagina en Vercel:
 
-https://alejo-de-la-cruz-proyecto-final-react-comision-34790.vercel.app/
+https://alejo-de-la-cruz-coder-house-proyecto-final-react-r9ih7wba1.vercel.app/
 
